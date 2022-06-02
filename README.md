@@ -30,14 +30,18 @@
 |%MEM|메모리의 사용률|
 |TIME+|프로세스의 런타임|
 |COMMAND|실행된 명령어|
-<img src="https://i.imgur.com/cr2tP5I.png">
+<img src="https://i.imgur.com/w5Qio0f.png">
+---
+### ps
 
-# 헤드  
-## 헤드  
-### 헤드  
-#### 헤드  
-##### 헤드  
-###### 헤드  
+### jobs
+
+### kill
+
+## vim에디터에서의 매크로 사용방법
+
+
+
 
 가로줄   
 ---
