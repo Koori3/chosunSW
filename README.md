@@ -15,7 +15,7 @@
 |Memory|메모리 사용량|
 <img src="https://i.imgur.com/cr2tP5I.png">
 
-#### 세부 정보 필드별 항목
+### 세부 정보 필드별 항목
 |필드|설명|
 |:---:|:---|
 |PID|프로세스 ID(process ID)|
@@ -33,11 +33,11 @@
 <img src="https://i.imgur.com/w5Qio0f.png">
 *** 
 
-### ps
+## ps
 
-### jobs
+## jobs
 
-### kill
+## kill
 
 ## vim에디터에서의 매크로 사용방법
 
