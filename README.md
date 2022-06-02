@@ -20,17 +20,17 @@
 |:---:|:---|
 |PID|프로세스 ID(process ID)|
 |USER|프로세스를 실행시킨 사용자 ID|
-|PRI|프로세스의 우선순위(Priority)|
-|NI|NICE 값|
+|PR|프로세스의 우선순위(Priority)|
+|NI|PR값에 영향을 주는 NICE 값|
 |VIRT|가상메모리의 사용량, (SWAP+RES)|
-|RES|현재 페이지가 상주하고 있는 크기(Resident Size)|
-|SHR|분할된 페이지, 프로세스에 의해 사용된 메모리를 나눈 메모리의 총합|
-|S|프로세스의 상태 (State)
+|RES|RAM에서 사용중인 메모리의 크기(Resident Size)|
+|SHR|다른 프로세스와의 공유메모리|
+|S|프로세스의 현재 상태 (State)
 |%CPU|CPU의 사용률|
 |%MEM|메모리의 사용률|
 |TIME+|프로세스의 런타임|
 |COMMAND|실행된 명령어|
-
+<img src="https://i.imgur.com/cr2tP5I.png">
 
 # 헤드  
 ## 헤드  
