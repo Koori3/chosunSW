@@ -31,9 +31,9 @@
 |TIME+|프로세스의 런타임|
 |COMMAND|실행된 명령어|
 <img src="https://i.imgur.com/w5Qio0f.png">
-*** 
 
 ## ps
+- 현재 실행중인
 
 ## jobs
 
