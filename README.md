@@ -68,9 +68,9 @@
 자세한 정보는 <https://vim.fandom.com/wiki/Macros>
 ## 매크로 레코딩
 
-`q<letter><commands>q` : letter에 commands를 저장
+`q<letter><commands>q` : letter에 commands를 저장  
 
 ## 매크로 재생
-`<number>@<letter>` : letter에 레코딩한 commands를 number회 만큼 실행
-`<number>@@` : 가장 최근에 실행한 매크로를 number회 만큼 실행
+`<number>@<letter>` : letter에 레코딩한 commands를 number회 만큼 실행  
+`<number>@@` : 가장 최근에 실행한 매크로를 number회 만큼 실행  
     
