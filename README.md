@@ -64,9 +64,15 @@
 - `kill [process ID]`를 입력하여 프로세스를 종료할 수 있다.
 - `kill -9 [process ID]`를 입력하면 프로세스의 응답이 없어서 강제종료 할 수 있다.
 
-## vim에디터에서의 매크로 사용방법
+# vim에디터에서의 매크로 사용방법
+<https://vim.fandom.com/wiki/Macros>
+## 매크로 레코딩
 
+`q<letter><commands>q` : <letter>에 <commands>를 저장
 
+## 매크로 재생
+`<number>@<letter>` : <letter>에
+    
 
 
 가로줄   
