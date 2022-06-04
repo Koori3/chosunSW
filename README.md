@@ -65,47 +65,12 @@
 - `kill -9 [process ID]`를 입력하면 프로세스의 응답이 없어서 강제종료 할 수 있다.
 
 # vim에디터에서의 매크로 사용방법
-<https://vim.fandom.com/wiki/Macros>
+자세한 정보는 <https://vim.fandom.com/wiki/Macros>
 ## 매크로 레코딩
 
-`q<letter><commands>q` : <letter>에 <commands>를 저장
+`q<letter><commands>q` : letter에 commands를 저장
 
 ## 매크로 재생
-`<number>@<letter>` : <letter>에
+`<number>@<letter>` : letter에 레코딩한 commands를 number회 만큼 실행
+`<number>@@` : 가장 최근에 실행한 매크로를 number회 만큼 실행
     
-
-
-가로줄   
----
-가로줄  
-***
-
-1) 1
-2) 2
-3) 3
-
-- 1
-- 2
-- 3
-
-* 1
-* 2
-* 3
-
-` 인용문 ` : 인용문입니다
-
-```c
-#include<stdio.h>
-
-int main() {
-    printf("Hello World!\n");
-}
-```
-
-*기울임체*  
-_기울임체_  
-**굵게**  
-__굵게__  
-***굵은기울임체***  
-___굵은기울임체___  
-
